@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ![Screenshot (21)](https://github.com/Siddharthbobade/CSS-Mini_Project/assets/142419287/1e63bf8d-e1b4-4424-9045-f14cab3bcf80)
 
-## Thanks for visiting.
+## Thank you for visiting.
 
 
 
